@@ -1,5 +1,6 @@
 # 3학년 2학기 [빅데이터분석] TermProject
 ## 팀원 : 성지윤, 최한얼
+## 본인 역할 : Matplotlib를 활용한 막대 그래프(Bar chart) 시각화, Seaborn을 화용한 Heatmap 시각화
 
 ### 개발도구 : Jupyter Notebook
 ### 개발언어 : Python
